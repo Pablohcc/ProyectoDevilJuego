@@ -138,3 +138,5 @@
 *.gz lfs-file
 *.rar lfs-file
 *.tar lfs-file
+
+*.terrain.asset filter=lfs diff=lfs merge=lfs -text
